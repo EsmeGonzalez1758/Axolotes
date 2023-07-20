@@ -14,18 +14,22 @@ head: it is the first of the two parts in which an HTML document is structured
 * label: represents a label for an element in a user interface. This can be associated with a control either by using the for attribute, or by placing the control inside the label element. Such a control is called the "labeled control" of the label element.
 * input type="radio":<input> elements of type radio are generally used in radio group, collections of radio buttons describing a set of related options.
 
-# tools
+# 🔧 tools 🔧 
 * Images of Axolotl
 * Visual studio Code
 * Google
 * color palette (optional)
 
-# Page display Axolotls
-Nav, header, ul and li (definition and characteristics of axolotls)
+# 🔰 Page display Axolotls 🔰
+*Nav, header, ul and li (definition and characteristics of axolotls)*
 
-ul, li and hr (diet, usual diseases and mythology of axolotls)
+![axolotl website](https://github.com/EsmeGonzalez1758/Axolotes/blob/f849cce9fb54930f1b3fc277bb04510d5e8d0fca/images/nav%20y%20header.PNG)
 
-hr, label and input type="radio" (anatomy, conservation know more and form of axolotls)
+*ul, li and hr (diet, usual diseases and mythology of axolotls)*
 
+![axolotl website](https://github.com/EsmeGonzalez1758/Axolotes/blob/f849cce9fb54930f1b3fc277bb04510d5e8d0fca/images/2captura.PNG)
+
+*hr, label and input type="radio" (anatomy, conservation know more and form of axolotls)*
+![axolotl website](https://github.com/EsmeGonzalez1758/Axolotes/blob/f849cce9fb54930f1b3fc277bb04510d5e8d0fca/images/3captura.PNG)
 
 
