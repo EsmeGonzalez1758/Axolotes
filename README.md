@@ -9,7 +9,6 @@ head: it is the first of the two parts in which an HTML document is structured
 * header: used to contain header information for a document or section.
 * ul: "unordered list", unordered list. Create an unordered list.
 * li: is an HTML5 tag used to create list items in an HTML document.
-  The <li> tag represents a list element in an ordered list (<ol>) or an unordered list (<ul>).
 * ol: The ol element allows you to define ordered lists or bullets ("Ordered List"), either numbered or alphabetically.
 * hr – Represents a topic change between paragraphs (for example, a scene change in a story, a topic change in a section). In previous versions of HTML it represented a horizontal line.
 * label: represents a label for an element in a user interface. This can be associated with a control either by using the for attribute, or by placing the control inside the label element. Such a control is called the "labeled control" of the label element.
