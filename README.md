@@ -10,6 +10,22 @@ head: it is the first of the two parts in which an HTML document is structured
 * ul: "unordered list", unordered list. Create an unordered list.
 * li: is an HTML5 tag used to create list items in an HTML document.
 * ol: The ol element allows you to define ordered lists or bullets ("Ordered List"), either numbered or alphabetically.
-* hr – Represents a topic change between paragraphs (for example, a scene change in a story, a topic change in a section). In previous versions of HTML it represented a horizontal line.
+* hr: Represents a topic change between paragraphs (for example, a scene change in a story, a topic change in a section). In previous versions of HTML it represented a horizontal line.
 * label: represents a label for an element in a user interface. This can be associated with a control either by using the for attribute, or by placing the control inside the label element. Such a control is called the "labeled control" of the label element.
 * input type="radio":<input> elements of type radio are generally used in radio group, collections of radio buttons describing a set of related options.
+
+# tools
+* Images of Axolotl
+* Visual studio Code
+* Google
+* color palette (optional)
+
+# Page display Axolotls
+Nav, header, ul and li (definition and characteristics of axolotls)
+
+ul, li and hr (diet, usual diseases and mythology of axolotls)
+
+hr, label and input type="radio" (anatomy, conservation know more and form of axolotls)
+
+
+
