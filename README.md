@@ -1,5 +1,5 @@
 # 📌 Axolotls 📌
-🔗 [Proyecto completo](https://axoloteslindos.netlify.app)
+🔗 [Proyecto completo](https://axoloteslindos.netlify.app/)
 
 Creating a web page called "Axolotls" in HTML offers an exciting opportunity to bring a unique and engaging digital project to life. Inspired by the fascinating aquatic creature, Axolotes seeks to provide visitors with an immersive and educational online experience. Through the HTML markup language, this page will be built with a solid and user-friendly structure, allowing intuitive navigation and an attractive visual presentation.
 
